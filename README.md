@@ -1,1 +1,1 @@
-# PatternGame
+# pattern
